@@ -7,37 +7,32 @@ author_profile: true
 
 {% include base_path %}
 
-**徐潇源（Xiaoyuan Xu）：上海交通大学电子信息与电气工程学院电气工程系长聘教轨副教授** [[学校官网个人主页]](https://eei.sjtu.edu.cn/faculty-detail.php?id=91)
+**王晗（Han Wang）：上海交通大学电子信息与电气工程学院电气工程系助理研究员** [[学校官网个人主页]](https://eei.sjtu.edu.cn/faculty-detail.php?id=1411)
 
 主要研究方向
 ------
 * __电力系统不确定性分析__
-  * 新能源发电建模、感知与预测
-  * 高比例新能源电力系统分析与计算
-  * 高比例新能源电力系统优化运行：随机/鲁棒/分布鲁棒/数据驱动优化
-* __配电网-交通网的耦合与协调优化__
-  * 大规模电动汽车灵活调度
-  * 交通系统建模与分析
-  * 配电网-交通网联合规划与运行
+  * xx
+* __微电网潮流分析__
+  * xx
+* __交通网-配电网耦合分析与协同运行__
+  * xx
 
 工作经历
 ------
-* 2022/01-现在&ensp;&ensp;&ensp;&nbsp;&nbsp;**长聘教轨副教授**
-  * 上海交通大学&nbsp;&nbsp;电子信息与电气工程学院电气工程系
+* 2022/07-现在&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;**助理研究员**
+  * 上海交通大学&nbsp;电子信息与电气工程学院电气工程系
   
-* 2018/10-2021/12&nbsp;&nbsp;**助理教授**
-  * 上海交通大学&nbsp;&nbsp;电子信息与电气工程学院电气工程系
+* 2020/07-2022/06&nbsp;&nbsp;**博士后**
+  * 上海交通大学&nbsp;电子信息与电气工程学院电气工程系
 
-* 2017/05-2018/05&nbsp;&nbsp;**访问学者**
-  * 美国伊利诺伊理工大学&nbsp;&nbsp;Robert W. Galvin Center for Electricity Innovation
-
-* 2016/06-2018/10&nbsp;&nbsp;**博士后**
-  * 上海交通大学&nbsp;&nbsp;电子信息与电气工程学院
+* 2019/05-2020/01&nbsp;&nbsp;**访问学者**
+  * 美国伊利诺伊理工大学&nbsp;电气与计算机工程系
 
 学习经历
 ------
-* 2010/09-2016/06&nbsp;&nbsp;上海交通大学&nbsp;&nbsp;电气工程&nbsp;&nbsp;**博士**
-* 2006/09-2010/06&nbsp;&nbsp;上海交通大学&nbsp;&nbsp;电气工程&nbsp;&nbsp;**学士**
+* 2015/09-2020/06&nbsp;&nbsp;上海交通大学&nbsp;&nbsp;电气工程&ensp;&ensp;**博士**
+* 2011/09-2015/06&nbsp;&nbsp;浙江大学&nbsp;&nbsp;电力系统及其自动化&nbsp;&nbsp;**学士**
 
 学术论著 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/publications)
 ------
