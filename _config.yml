@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "徐潇源Xiaoyuan Xu_上海交通大学"
+title                    : "王晗 Han Wang_上海交通大学"
 title_separator          : "-"
-name                     : &name "徐潇源 Xiaoyuan Xu"
-description              : &description "上海交通大学 电子信息与电气工程学院电气工程系 副教授"
-url                      : https://xiaoyuan-xu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "王晗 Han Wang"
+description              : &description "上海交通大学 电子信息与电气工程学院<br>电气工程系 助理研究员"
+url                      : https://wanghan126.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaoyuan-xu/academicpages.github.io"
 teaser                   : "" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "徐潇源 Xiaoyuan Xu"
-  avatar           : "xuxiaoyuan.jpg"
-  bio              : "上海交通大学 电子信息与电气工程学院电气工程系 副教授<br/><br/><b>主要研究方向：</b>电力系统不确定性分析、配电网-交通网的耦合与协调优化"
+  name             : "王晗 Han Wang"
+  avatar           : "wanghan.jpg"
+  bio              : "上海交通大学 电子信息与电气工程学院<br>电气工程系 助理研究员<br/><br/><b>主要研究方向：</b>电力系统不确定性分析、微电网潮流分析、交通网-配电网耦合分析与协同运行"
   location         : "上海市闵行区东川路800号<br/>上海交通大学闵行校区电信群楼<br/><a href='https://j.map.baidu.com/95/0Js'>1号楼347室&nbsp;&nbsp;[查看地图]</a>"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=EstEBeIAAAAJ"
-  email            : "xuxiaoyuan@sjtu.edu.cn"
+  email            : "wanghan9894@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
