@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**王晗（Han Wang）：上海交通大学电子信息与电气工程学院电气工程系助理研究员** [[学校官网个人主页]](https://eei.sjtu.edu.cn/faculty-detail.php?id=1411)
+**王晗（Han Wang）：上海交通大学电子信息与电气工程学院电气工程系助理研究员** <br>[[学校官网个人主页]](https://eei.sjtu.edu.cn/faculty-detail.php?id=1411)
 
 主要研究方向
 ------
