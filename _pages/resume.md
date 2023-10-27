@@ -140,6 +140,12 @@ author_profile: true
 ------
    {% include_relative positions/positions_content.md %}
 
+课程教学 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/teaching)
+------
+   <ul>{% for post in site.teaching reversed %}
+       {% include archive-single-cv.html %} 
+       {% endfor %}</ul>
+
 研究生 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/graduates)
 ------
    {% include_relative graduates/graduates_content.html %}
