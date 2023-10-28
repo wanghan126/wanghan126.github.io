@@ -6,7 +6,7 @@ permalink: /publication/2019-09-01-journal-en-Maximum loadability of islanded mi
 date: 2019-09-01
 venue: "IEEE Transactions on Smart Grid"
 paper_author: "Xiaoyuan Xu, Zheng Yan, Mohammad Shahidehpour*, Sijie Chen, <b>Han Wang</b>, Zhiyi Li, Quan Zhou"
-corresponding: True
+corresponding: False
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/8388268"
 citation: 'X. Xu, Z. Yan, M. Shahidehpour, S. Chen, H. Wang, Z. Li and Q. Zhou, "Maximum loadability of islanded microgrids with renewable energy generation," <i>IEEE Transactions on Smart Grid</i>, vol. 10, no. 5, pp. 4696-4705, 2019.'
