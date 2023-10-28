@@ -6,7 +6,7 @@ permalink: /publication/2021-07-01-journal-en-Optimal Energy Storage Allocation 
 date: 2021-07-01
 venue: "IEEE Transactions on Sustainable Energy"
 paper_author: "<b>Han Wang</b>, Zheng Yan, Mohammad Shahidehpour*, Quan Zhou, Xiaoyuan Xu"
-corresponding: False
+corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/9088223"
 citation: 'H. Wang, Z. Yan, M. Shahidehpour, Q. Zhou and X. Xu, "Optimal Energy Storage Allocation for Mitigating the Unbalance in Active Distribution Network via Uncertainty Quantification," <i>IEEE Transactions on Sustainable Energy</i>, vol. 12, no. 1, pp. 303-313, 2021.'
