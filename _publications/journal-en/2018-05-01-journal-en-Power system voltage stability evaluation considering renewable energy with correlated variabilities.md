@@ -6,7 +6,7 @@ permalink: /publication/2018-05-01-journal-en-Power system voltage stability eva
 date: 2018-05-01
 venue: "IEEE Transactions on Power Systems"
 paper_author: "Xiaoyuan Xu, Zheng Yan*, Mohammad Shahidehpour, <b>Han Wang</b>, Sijie Chen"
-corresponding: True
+corresponding: False
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/8226762"
 citation: 'X. Xu, Z. Yan, M. Shahidehpour, H. Wang and S. Chen, "Power system voltage stability evaluation considering renewable energy with correlated variabilities," <i>IEEE Transactions on Power Systems</i>, vol. 33, no. 3, pp. 3236-3245, 2018.'
