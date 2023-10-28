@@ -6,7 +6,7 @@ permalink: /publication/2022-07-01-journal-en-A Risk-Controllable Day-Ahead Tran
 date: 2022-07-01
 venue: 'International Journal of Electrical Power and Energy Systems'
 paper_author: "Jifeng Cheng, Zheng Yan, <b>Han Wang</b>, Xiaoyuan Xu"
-corresponding: False
+corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S0142061521008802"
 citation: 'J. Cheng, Z. Yan, H. Wang and X. Xu. "A Risk-Controllable Day-Ahead Transmission Schedule of Surplus Wind Power with Uncertainty in Sending Grids," <i>International Journal of Electrical Power & Energy Systems</i>, vol. 139, art. no. 107649, 2022.'
