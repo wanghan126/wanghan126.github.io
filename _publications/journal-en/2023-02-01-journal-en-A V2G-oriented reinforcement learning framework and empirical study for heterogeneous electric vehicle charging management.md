@@ -6,7 +6,7 @@ permalink: /publication/2023-02-01-journal-en-A V2G-oriented reinforcement learn
 date: 2023-02-01
 venue: "Sustainable Cities and Society"
 paper_author: "Xu Hao, Yue Chen, Hewu Wang, <b>Han Wang</b>, Yu Meng, Qing Gu"
-corresponding: False
+corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S2210670722006497"
 citation: 'Xu Hao, Yue Chen, Hewu Wang, Han Wang, Yu Meng and Qing Gu, "A V2G-oriented reinforcement learning framework and empirical study for heterogeneous electric vehicle charging management",<i>Sustainable Cities and Society</i>,Volume 89, pp.104345, 2023.'
