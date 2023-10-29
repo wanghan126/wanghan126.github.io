@@ -10,14 +10,14 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
+<!--
 <blockquote> <p>专著</p> </blockquote>
 {% for post in site.publications reversed %}
   {% if post.type == "book" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
+-->
 <blockquote> <p>英文期刊论文</p> </blockquote>
 {% for post in site.publications reversed %}
   {% if post.type == "journal-en" %}
