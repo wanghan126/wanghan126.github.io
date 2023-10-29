@@ -5,7 +5,7 @@ type: "journal-en"
 permalink: /publication/2020-01-01-journal-en-Probabilistic power flow analysis of microgrid with renewable energy
 date: 2020-01-01
 venue: "International Journal of Electrical Power & Energy Systems"
-paper_author: "<b>Han Wang</b>, Zheng Yan, Xiaoyuan Xu*, Kun He"
+paper_author: "<b>Han Wang</b>, Zheng Yan, Xiaoyuan Xu, Kun He"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S0142061518329624"
