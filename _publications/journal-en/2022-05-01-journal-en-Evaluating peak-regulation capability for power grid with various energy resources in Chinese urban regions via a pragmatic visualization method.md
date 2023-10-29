@@ -5,7 +5,7 @@ type: "journal-en"
 permalink: /publication/2022-05-01-journal-en-Evaluating peak-regulation capability for power grid with various energy resources in Chinese urban regions via a pragmatic visualization method
 date: 2022-05-01
 venue: "Sustainable Cities and Society"
-paper_author: "Hongyan Ma, <b>Han Wang</b>, Zheng Yan, Qingmin Yu"
+paper_author: "Hongyan Ma, <b>Han Wang*</b>, Zheng Yan, Qingmin Yu"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S2210670722000804"
