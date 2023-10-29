@@ -5,7 +5,7 @@ type: "journal-en"
 permalink: /publication/2022-10-01-journal-en-A two-phase market clearing framework for inter-provincial electricity trading in Chinese power grids
 date: 2022-10-01
 venue: "Sustainable Cities and Society"
-paper_author: "Yi Chen, <b>Han Wang</b>, Zheng Yan, Xiaoyuan Xu, Dan Zeng, Bin Ma"
+paper_author: "Yi Chen, <b>Han Wang*</b>, Zheng Yan, Xiaoyuan Xu, Dan Zeng, Bin Ma"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S2210670722003754"
