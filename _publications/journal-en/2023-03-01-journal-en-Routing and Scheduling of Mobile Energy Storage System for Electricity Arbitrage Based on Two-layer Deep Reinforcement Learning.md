@@ -5,7 +5,7 @@ type: "journal-en"
 permalink: /publication/2023-03-01-journal-en-Routing and Scheduling of Mobile Energy Storage System for Electricity Arbitrage Based on Two-layer Deep Reinforcement Learning
 date: 2023-03-01
 venue: "IEEE Transactions on Transportation Electrification"
-paper_author: "Tingxuan Chen, Xiaoyuan Xu*, <b>Han Wang</b>, Zheng Yan"
+paper_author: "Tingxuan Chen, Xiaoyuan Xu, <b>Han Wang</b>, Zheng Yan"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/9864603"
