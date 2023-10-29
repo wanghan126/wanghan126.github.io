@@ -2,10 +2,10 @@
 main:
   - title: "学术论著"
     url: /publications/
-
+  <!--
   - title: "学术报告"
     url: /presentations/
-
+  -->
   - title: "科研项目"
     url: /projects/
 
@@ -17,10 +17,10 @@ main:
  
   - title: "社会兼职"
     url: /positions/ 
- 
+  <!--
   - title: "课程教学"
     url: /teaching/
-    
+  -->
   - title: "研究生"
     url: /graduates/
 
