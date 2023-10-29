@@ -5,7 +5,7 @@ type: "journal-en"
 permalink: /publication/2020-07-01-journal-en-Quantitative evaluations of uncertainties in multivariate operations of microgrids
 date: 2020-07-01
 venue: "IEEE Transactions on Smart Grid"
-paper_author: "<b>Han Wang</b>, Zheng Yan, Mohammad Shahidehpour*, Xiaoyuan Xu, Quan Zhou"
+paper_author: "<b>Han Wang</b>, Zheng Yan, Mohammad Shahidehpour, Xiaoyuan Xu, Quan Zhou"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/8984215"
