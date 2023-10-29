@@ -5,7 +5,7 @@ type: "journal-zh"
 permalink: /publication/2023-08-01-journal-zh-基于多仿射决策规则的电-氢耦合系统多阶段鲁棒优化调度
 date: 2023-08-01
 venue: "电力系统自动化"
-paper_author: "潘思佳, 徐潇源*, 严正, <b>王晗</b>, 韩鹏飞"
+paper_author: "潘思佳, 徐潇源, 严正, <b>王晗</b>, 韩鹏飞"
 corresponding: False
 remark: "（录用）"
 paperurl: ""
