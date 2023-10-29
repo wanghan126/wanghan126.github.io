@@ -5,8 +5,8 @@ type: "journal-en"
 permalink: /publication/2022-02-01-journal-en-Data-driven distribution network topology identification considering correlated generation power of distributed energy resource
 date: 2022-02-01
 venue: "Frontiers in Energy"
-paper_author: "Jialiang Chen, Xiaoyuan Xu*, Zheng Yan, <b>Han Wang</b>"
-corresponding: False
+paper_author: "Jialiang Chen, Xiaoyuan Xu, Zheng Yan, <b>Han Wang</b>"
+corresponding: True
 remark: "(SCI)"
 paperurl: "https://link.springer.com/article/10.1007/s11708-021-0780-x"
 citation: 'J. Chen, X. Xu, Z. Yan and H. Wang, "Data-driven distribution network topology identification considering correlated generation power of distributed energy resource," <i>Frontiers in Energy</i>, vol. 16, no. 1, pp. 121-129, 2022.'
