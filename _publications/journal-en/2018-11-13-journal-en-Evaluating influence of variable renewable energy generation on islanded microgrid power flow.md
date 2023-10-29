@@ -5,7 +5,7 @@ type: "journal-en"
 permalink: /publication/2018-11-13-journal-en-Evaluating influence of variable renewable energy generation on islanded microgrid power flow
 date: 2018-11-13
 venue: "IEEE Access"
-paper_author: "<b>Han Wang</b>, Zheng Yan, Xiaoyuan Xu*, Kun He"
+paper_author: "<b>Han Wang</b>, Zheng Yan, Xiaoyuan Xu, Kun He"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/8533339"
