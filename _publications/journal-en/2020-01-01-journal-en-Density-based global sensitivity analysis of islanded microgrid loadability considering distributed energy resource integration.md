@@ -5,8 +5,8 @@ type: "journal-en"
 permalink: /publication/2020-01-01-journal-en-Density-based global sensitivity analysis of islanded microgrid loadability considering distributed energy resource integration
 date: 2020-01-01
 venue: "Journal of Modern Power Systems and Clean Energy"
-paper_author: "Zhuoxin Lu, Xiaoyuan Xu*, Zheng Yan, <b>Han Wang</b>"
-corresponding: False
+paper_author: "Zhuoxin Lu, Xiaoyuan Xu, Zheng Yan, <b>Han Wang</b>"
+corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/8861468"
 citation: 'Z. Lu, X. Xu, Z. Yan and H. Wang, "Density-based global sensitivity analysis of islanded microgrid loadability considering distributed energy resource integration," <i>Journal of Modern Power Systems and Clean Energy</i>, vol. 8, no. 1, pp. 94-101, 2020.'
