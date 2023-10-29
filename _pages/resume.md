@@ -35,6 +35,7 @@ author_profile: true
 学术论著 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/publications)
 ------
 
+<!--
   <blockquote> <p>专著</p> </blockquote>
   <ol>
   {% for post in site.publications reversed %}
@@ -54,6 +55,7 @@ author_profile: true
   {% endif %}
   {% endfor %}
   </ol>
+-->
 
   <blockquote> <p>英文期刊论文</p> </blockquote>
   <ol>
@@ -115,12 +117,14 @@ author_profile: true
   {% endfor %}
   </ol>
 -->
-  
+
+<!--  
 学术报告 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/talks)
 ------
   <ol>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ol>
+-->
 
 科研项目 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/projects)
 ------
@@ -139,7 +143,8 @@ author_profile: true
 社会兼职 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/positions)
 ------
    {% include_relative positions/positions_content.md %}
-
+   
+<!--
 课程教学 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/teaching)
 ------
    <ul>{% for post in site.teaching reversed %}
@@ -149,3 +154,4 @@ author_profile: true
 研究生 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/graduates)
 ------
    {% include_relative graduates/graduates_content.html %}
+-->
