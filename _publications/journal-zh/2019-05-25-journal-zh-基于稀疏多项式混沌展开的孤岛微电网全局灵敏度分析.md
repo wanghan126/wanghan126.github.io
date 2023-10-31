@@ -5,7 +5,7 @@ type: "journal-zh"
 permalink: /publication/2019-05-25-journal-zh-基于稀疏多项式混沌展开的孤岛微电网全局灵敏度分析
 date: 2019-05-25
 venue: "电力系统自动化"
-paper_author: "<b>王晗</b>, 严正, 徐潇源*, 何琨"
+paper_author: "<b>王晗</b>, 严正, 徐潇源, 何琨"
 corresponding: True
 remark: ""
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=DLXT201910006&uniplatform=NZKPT&v=Xe2Oz5HuAVUL4ma-HCSu0TKYyA0QZp7AVtbgoh0zuEdn8YNWH8i2ytvr3K_sgJBL"
