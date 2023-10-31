@@ -130,7 +130,7 @@ author_profile: true
 
 专利 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/patents)
 ------
-  <ol>{% for post in site.posts reversed %}
+  <ol>{% for post in site.posts%}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
 
