@@ -9,5 +9,5 @@ paper_author: "<b>Han Wang</b>, Xuyuan Xu, Yue Chen, Zheng Yan, Mohammad Shahide
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/10287171"
-citation:'H. Wang, X. Xu, Y. Chen, Z. Yan, M. Shahidehpour, J. Li and S. Xu, "Stochastic optimization of coupled power distribution-urban transportation network operations with autonomous mobility on demand systems," <i>IEEE Transactions on Smart Grid</i>, 2023. (Accept)'
+citation: 'Xiaoyuan Xu, Yuanhai Gao, Han Wang, Zheng Yan, Mohammad Shahidehpour, Zhenfei Tan, "Distributionally robust optimization of photovoltaic power with lifted linear decision rule for distribution system voltage regulation", <i>IEEE Transactions on Sustainable Energy</i>, early access, 2022.'
 ---
