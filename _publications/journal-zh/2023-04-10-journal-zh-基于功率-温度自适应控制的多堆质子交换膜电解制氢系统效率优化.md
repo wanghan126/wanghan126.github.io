@@ -5,7 +5,7 @@ type: "journal-zh"
 permalink: /publication/2023-04-10-journal-zh-基于功率-温度自适应控制的多堆质子交换膜电解制氢系统效率优化
 date: 2023-04-10
 venue: "电工技术学报"
-paper_author: "韩鹏飞, 徐潇源*, <b>王晗</b>, 严正"
+paper_author: "韩鹏飞, 徐潇源, <b>王晗</b>, 严正"
 corresponding: True
 remark: "（录用）"
 paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD64uketby5x2Un_6P2fLqaillzQQWEVr9dLTl_Jlqrz9-RpN4EjJBjcR&uniplatform=NZKPT"
