@@ -5,7 +5,7 @@ type: "journal-zh"
 permalink: /publication/2022-12-25-journal-zh-考虑公交车移动特性的电动公交车-充电站-配电网联合调度
 date: 2022-12-25
 venue: "电力系统自动化"
-paper_author: "徐冉, 徐潇源*, <b>王晗</b>, 严正"
+paper_author: "徐冉, 徐潇源, <b>王晗</b>, 严正"
 corresponding: True
 remark: ""
 paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UBliRfKRYir8aNLuvfyiHrMbItlTndTwzt19PJRsY0GS&uniplatform=NZKPT"
