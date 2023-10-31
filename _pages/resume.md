@@ -24,13 +24,11 @@ author_profile: true
 * 2020/07-2022/06&nbsp;&nbsp;**博士后**
   * 上海交通大学&nbsp;电子信息与电气工程学院电气工程系
 
-* 2019/05-2020/01&nbsp;&nbsp;**访问学者**
-  * 美国伊利诺伊理工大学&nbsp;电气与计算机工程系
-
 学习经历
 ------
-* 2015/09-2020/06&nbsp;&nbsp;上海交通大学&nbsp;&nbsp;电气工程&ensp;&ensp;**博士**
-* 2011/09-2015/06&nbsp;&nbsp;浙江大学&nbsp;&nbsp;电力系统及其自动化&nbsp;&nbsp;**学士**
+* 2015/09-2020/06&nbsp;&nbsp;上海交通大学&nbsp;&nbsp;电气工程&nbsp;&nbsp;**博士**&nbsp;&nbsp;(导师：严正)
+* 2019/05-2020/01&nbsp;&nbsp; 美国伊利诺伊理工大学&nbsp;&nbsp;**访问学者**&nbsp;&nbsp;(合作导师：Mohammad Shahidehpour)
+* 2011/09-2015/06&nbsp;&nbsp;浙江大学&nbsp;&nbsp;电气工程&nbsp;&nbsp;**学士**
 
 学术论著 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/publications)
 ------
