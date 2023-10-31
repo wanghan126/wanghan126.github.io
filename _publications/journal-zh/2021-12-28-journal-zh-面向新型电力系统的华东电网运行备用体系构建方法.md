@@ -5,8 +5,8 @@ type: "journal-zh"
 permalink: /publication/2021-12-28-journal-zh-面向新型电力系统的华东电网运行备用体系构建方法
 date: 2021-12-28
 venue: "上海交通大学学报"
-paper_author: "胡宏, 陈新仪, 王利峰, 滕晓毕, 严正*, 徐潇源, <b>王晗</b>"
-corresponding: False
+paper_author: "胡宏, 陈新仪, 王利峰, 滕晓毕, 严正, 徐潇源, <b>王晗</b>"
+corresponding: True
 remark: ""
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=SHJT202112014&uniplatform=NZKPT&v=EHoub_I5tqchZTvwPx9sHrMnxq-DV_Z-P-L2LIj-4KI5CAIl01lnUkmzoIeiBe7o"
 citation: '胡宏, 陈新仪, 王利峰, 滕晓毕, 严正, 徐潇源, 王晗. 面向新型电力系统的华东电网运行备用体系构建方法[J]. 上海交通大学学报, 2021, 55(12): 1640-1649.'
