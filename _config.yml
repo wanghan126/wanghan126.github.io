@@ -10,7 +10,7 @@ locale                   : "zh-CN"
 title                    : "王晗 Han Wang_上海交通大学"
 title_separator          : "-"
 name                     : &name "王晗 Han Wang"
-description              : &description "上海交通大学 电子信息与电气工程学院 电气工程系 助理研究员"
+description              : &description "上海交通大学 电子信息与电气工程学院 电气工程系 副研究员"
 url                      : https://wanghan126.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaoyuan-xu/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "王晗 Han Wang"
   avatar           : "wanghan.jpg"
-  bio              : "上海交通大学<br>电子信息与电气工程学院<br>电气工程系 助理研究员<br><br><b>主要研究方向：</b><br>电力系统不确定性分析, 交通网-配电网耦合运行与协调优化, 基于量子计算的电力系统运行优化"
+  bio              : "上海交通大学<br>电子信息与电气工程学院<br>电气工程系 副研究员<br><br><b>主要研究方向：</b><br>电力系统不确定性分析, 交通网-配电网耦合运行与协调优化, 基于量子计算的电力系统运行优化"
   location         : "上海市闵行区东川路800号<br/>上海交通大学闵行校区电信群楼<br/><a href='https://j.map.baidu.com/95/0Js'>1号楼227室&nbsp;&nbsp;[查看地图]</a>"
   employer         : 
   pubmed           : 
