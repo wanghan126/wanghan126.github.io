@@ -1,21 +1,20 @@
 ---
-title: "Analytical Probabilistic Power Flow and Global Sensitivity Analysis of Distribution Systems Based on Gaussian Mixture Model of Input-Output Variables"
+title: "A novel DC‐link voltage synchronous control with enhanced inertial capability for full‐scale power conversion wind turbine generators"
 collection: publications
 type: "journal-en"
-permalink: /publication/2023-11-01-journal-en-Analytical-Probabilistic-Power-Flow-and-Global-Sensitivity-Analysis
-date: 2023-11-01
-venue: "IEEE Transactions on Power Systems"
-volume: "39"
-issue: "3"
-pages: "5283-5296"
-issn: "0885-8950"
-container_title: "IEEE Transactions on Power Systems"
-short_container_title: "IEEE Trans. Power Syst."
+permalink: /publication/2024-02-journal-en-A-novel-DC-link-voltage-synchronous-control-with-enhanced-inertial-capability-for-full-scale-power-conversion-wind-turbine-generators
+date: 2024-02-01
+venue: "IET Renewable Power Generation"
+volume: "18"
+issue: "4"
+pages: "690-705"
+issn: "1752-1416"
+container_title: "IET Renewable Power Generation"
+short_container_title: "IET Renewable Power Gen"
 language: "en"
-paper_author: "Yuanhai Gao, Xiaoyuan Xu, Zheng Yan, Han Wang, Jian Ping, Bo Yang, Xinping Guan"
-corresponding: True
+paper_author: "<b>Han Wang</b>, Yao Qin, Dangsheng Zhou, Zhenyan Deng, Jianwen Zhang, Xu Cai"
+corresponding: False
 remark: "(SCI)"
-doi: "10.1109/TPWRS.2023.3329197"
-paperurl: "http://xplorestaging.ieee.org/ielx7/59/4374138/10304309.pdf?arnumber=10304309"
-citation: 'Y. Gao, X. Xu, Z. Yan, H. Wang, J. Ping, B. Yang, and X. Guan, "Analytical Probabilistic Power Flow and Global Sensitivity Analysis of Distribution Systems Based on Gaussian Mixture Model of Input-Output Variables," <i>IEEE Transactions on Power Systems</i>, vol. 39, no. 3, pp. 5283-5296, May 2024. DOI: 10.1109/TPWRS.2023.3329197.'
+paperurl: "https://ieeexplore.ieee.org/document/10287171"  # Placeholder URL (Update with correct one)
+citation: 'Q. Yao, <b>H. Wang</b>, D. Zhou, Z. Deng, J. Zhang, and X. Cai, "A novel DC‐link voltage synchronous control with enhanced inertial capability for full‐scale power conversion wind turbine generators," <i>IET Renewable Power Generation</i>, vol. 18, no. 4, pp. 690-705, Feb. 2024.'
 ---
