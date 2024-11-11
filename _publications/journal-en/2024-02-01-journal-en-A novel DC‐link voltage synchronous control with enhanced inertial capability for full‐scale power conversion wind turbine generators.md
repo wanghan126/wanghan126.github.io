@@ -15,6 +15,6 @@ language: "en"
 paper_author: "<b>Han Wang</b>, Yao Qin, Dangsheng Zhou, Zhenyan Deng, Jianwen Zhang, Xu Cai"
 corresponding: False
 remark: "(SCI)"
-paperurl: "https://ieeexplore.ieee.org/document/10287171"  # Placeholder URL (Update with correct one)
+paperurl: "https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/rpg2.12936"  # Placeholder URL (Update with correct one)
 citation: 'Q. Yao, <b>H. Wang</b>, D. Zhou, Z. Deng, J. Zhang, and X. Cai, "A novel DC‐link voltage synchronous control with enhanced inertial capability for full‐scale power conversion wind turbine generators," <i>IET Renewable Power Generation</i>, vol. 18, no. 4, pp. 690-705, Feb. 2024.'
 ---
