@@ -17,5 +17,5 @@ corresponding: True
 remark: "(SCI)"
 doi: "10.1109/TPWRS.2023.3329197"
 paperurl: "http://xplorestaging.ieee.org/ielx7/59/4374138/10304309.pdf?arnumber=10304309"
-citation: 'Gao Y, Xu X, Yan Z, et al. Analytical Probabilistic Power Flow 和 Global Sensitivity Analysis of Distribution Systems Based on Gaussian Mixture Model of Input-Output Variables[J]. IEEE Transactions on Power Systems, 2023.'
+citation: "Gao Y, Xu X, Yan Z, et al. Analytical Probabilistic Power Flow andGlobal Sensitivity Analysis of Distribution Systems Based on Gaussian Mixture Model of Input-Output Variables[J]. IEEE Transactions on Power Systems, 2023."
 ---
