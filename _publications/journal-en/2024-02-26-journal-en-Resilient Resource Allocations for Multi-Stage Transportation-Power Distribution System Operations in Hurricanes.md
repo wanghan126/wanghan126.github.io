@@ -3,7 +3,7 @@ title: "Resilient Resource Allocations for Multi-Stage Transportation-Power Dist
 collection: publications
 type: "journal-en"
 permalink: /publication/2024-07-01-journal-en-Resilient-Resource-Allocations-for-Multi-Stage-Transportation-Power-Distribution-System-Operations-in-Hurricanes
-date: 2024-02-26
+date: 2024-07-01
 venue: "IEEE Transactions on Smart Grid"
 paper_author: "Jiaqi Li, Xiaoyuan Xu, Zheng Yan, <b>Han Wang</b>, Mohammad Shahidehpour, Bangpeng Xie, Xiao Luo"
 corresponding: True
