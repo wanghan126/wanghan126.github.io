@@ -8,7 +8,7 @@ venue: "电力系统自动化"
 paper_author: "徐潇源, 李佳琪, <b>王晗</b>, 严正, 谢邦鹏, 罗潇"
 corresponding: True
 remark: "录用"
-paperurl: ""
+paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=r9IaLYgXogXnBW1FEp0VNJEaKutDze2p6P4Y_7YQmgSWFzRvJ23auUZpycFvpzGv5UI37doArGZ9bxvkjhffGmwZim849VlwrbjBeDeGFfpp_r1vQ_jaZDSBYwCcx567Q5bWQeAESLvgIqIwQ04Bza-kn98f4AFQEdMX5jiuxMeuklGFCgQWr_3O0Nrfi1eG9trLnaXJJtCmkw0exnAXXgIqNf1r-no_dD7GDIFSdhS_qi1MFcTnsYJyTEoxj81Yhti13eZC7ei_J4n_MY3fhWQB62ZiOCjyOl5Zkhd4gSZhzwM8rBiQLf8gDEuAuZkgfZ254IE-9vHO_2NP-XMeiCKv-Q2h_XurGBHJTHvZgVLHx8QZ14Us6BNdspipi5zvMPVUpjfCoAyhhvR3QerxOFVsJA7zx-Nm&uniplatform=NZKPT"
 citation: '徐潇源, 李佳琪, 王晗, 严正, 谢邦鹏, 罗潇. 城市电力-交通系统韧性研究综述及展望[J]. 电力系统自动化, 2024. （录用）'
 ---
 摘要：
