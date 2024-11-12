@@ -3,13 +3,13 @@ title: "Coordinated Optimization of Emergency Response Resources in Transportati
 collection: publications
 type: "journal-en"
 permalink: /publication/2023-03-14-journal-en-Coordinated Optimization of Emergency Response Resources in Transportation-Power Distribution Networks under Extreme Events
-date: 2023-03-14
+date: 2023-11-01
 venue: "IEEE Transactions on Smart Grid"
 paper_author: "Jiaqi Li, Xiaoyuan Xu, Zheng Yan, <b>Han Wang</b>, Mohammad Shahidehpour, Yue Chen"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/10068816"
-citation: 'J. Li, X. Xu, Z. Yan, H. Wang, M. Shahidehpour and Y. Chen, "Coordinated Optimization of Emergency Response Resources in Transportation-Power Distribution Networks under Extreme Events," <i>IEEE Transactions on Smart Grid</i>, 2023. (Early Access)'
+citation: 'J. Li, X. Xu, Z. Yan, H. Wang, M. Shahidehpour and Y. Chen, "Coordinated Optimization of Emergency Response Resources in Transportation-Power Distribution Networks Under Extreme Events," in IEEE Transactions on Smart Grid, vol. 14, no. 6, pp. 4607-4620, Nov. 2023. '
 ---
 
 Abstract:
