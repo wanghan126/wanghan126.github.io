@@ -1,13 +1,13 @@
 ---
-title: "全国统一电力市场演进过程下省间-省内市场出清及定价模型"
+title: "省间-省内两级市场协调下两阶段分布鲁棒经济调度模型"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2023-09-01-journal-zh-全国统一电力市场演进过程下省间-省内市场出清及定价模型
+permalink: /publication/2023-09-01-journal-zh-省间-省内两级市场协调下两阶段分布鲁棒经济调度模型
 date: 2023-09-01
-venue: "电工技术学报"
-paper_author: "陈熠, <b>王晗*</b>, 严正, 冯凯, 刘子杰"
+venue: "上海交通大学学报"
+paper_author: "陈熠, <b>王晗</b>, 胡友琳, 严正, 曾丹， 冯凯"
 corresponding: True
 remark: ""
-paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=HjlF_Ii0mblvKwiV_66bL-9hOdoEijh42phj7Cq2Y5zbXW42UCgEYlNcuUfVNJ0um8cid73odEE7rWaQz2OIHoS3wI_UF3fHCl-kKnukTMezyH5eVwdny8NBWMIF-tcav7v_nW4h5Vj_nz-3_bcbezF5WXNUFc2hSKHWICnlR5_Zm2FwhnAupNgLjRj_1gtq&uniplatform=NZKPT&language=CHS"
-citation: '陈熠,王晗,严正,等.全国统一电力市场演进过程下省间-省内市场出清及定价模型[J].电工技术学报,2024,39(07):2116-2131.'
+paperurl: "https://xuebao.sjtu.edu.cn/article/2023/1006-2467/1006-2467-57-9-1114.shtml"
+citation: '陈熠, 王晗, 徐潇源, 胡友琳, 严正, 曾丹, 冯凯. 省间-省内两级市场协调下两阶段分布鲁棒经济调度模型[J]. 上海交通大学学报, 2023, 57(9): 1114-1125'
 ---
