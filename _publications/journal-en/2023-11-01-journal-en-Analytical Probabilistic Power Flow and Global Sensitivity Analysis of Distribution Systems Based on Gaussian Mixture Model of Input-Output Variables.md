@@ -12,7 +12,7 @@ issn: "0885-8950"
 container_title: "IEEE Transactions on Power Systems"
 short_container_title: "IEEE Trans. Power Syst."
 language: "en"
-paper_author: "Yuanhai Gao, Xiaoyuan Xu, Zheng Yan, Han Wang, Jian Ping, Bo Yang, Xinping Guan"
+paper_author: "Yuanhai Gao, Xiaoyuan Xu, Zheng Yan, <b>Han Wang</b>, Jian Ping, Bo Yang, Xinping Guan"
 corresponding: True
 remark: "(SCI)"
 doi: "10.1109/TPWRS.2023.3329197"
