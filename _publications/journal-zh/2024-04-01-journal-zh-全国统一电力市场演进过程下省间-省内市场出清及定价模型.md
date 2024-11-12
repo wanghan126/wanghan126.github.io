@@ -9,7 +9,7 @@ paper_author: "陈熠, <b>王晗</b>, 严正, 冯凯, 刘子杰"
 corresponding: True
 remark: ""
 paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=r9IaLYgXogXaNNHoBvYcFNWnTAcygYLnmUywGMKU6ZFzjo2QezTuWRZhh7Ty_Ygbm8SgvX6336iDapvlTqerKIOrCUNtH5fPjvQsKr3JGlsXDDq_erDbv0xtz9mArMTMpdEGYHhj2Oln052bEPNIEU1uHj4tPXIGUzas2e4ctx9Pg-dJG_VKYxZKABiHl3DU&uniplatform=NZKPT&language=CHS"
-citation: '陈熠,王晗,严正,等.全国统一电力市场演进过程下省间-省内市场出清及定价模型[J].电工技术学报,2024,39(07):2116-2131.DOI:10.19595/j.cnki.1000-6753.tces.230066.'
+citation: '陈熠,王晗,严正,等.全国统一电力市场演进过程下省间-省内市场出清及定价模型[J].电工技术学报,2024,39(07):2116-2131.'
 ---
 
 摘要：
