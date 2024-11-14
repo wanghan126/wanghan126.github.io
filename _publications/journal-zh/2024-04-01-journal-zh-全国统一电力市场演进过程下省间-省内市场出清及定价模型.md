@@ -2,7 +2,7 @@
 title: "全国统一电力市场演进过程下省间-省内市场出清及定价模型"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2023-09-01-journal-zh-全国统一电力市场演进过程下省间-省内市场出清及定价模型
+permalink: /publication/2024-04-01-journal-zh-全国统一电力市场演进过程下省间-省内市场出清及定价模型
 date: 2024-04-01
 venue: "电工技术学报"
 paper_author: "陈熠, <b>王晗*</b>, 严正, 冯凯, 刘子杰"
