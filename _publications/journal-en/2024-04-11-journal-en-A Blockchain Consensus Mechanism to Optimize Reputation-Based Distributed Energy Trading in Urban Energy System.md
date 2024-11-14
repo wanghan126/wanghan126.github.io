@@ -10,7 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/10496579"
 citation: 'C. Zhao, D. Han, C. Li and H. Wang, "A Blockchain Consensus Mechanism to Optimize Reputation-Based Distributed Energy Trading in Urban Energy System," in IEEE Access, vol. 12, pp. 53698-53712, 2024.'
-volume: 'vol. 12, pp. 53698-53712'
+volume: "vol. 12, pp. 53698-53712"
 ---
 
 Abstract:
