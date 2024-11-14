@@ -10,6 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "http://xplorestaging.ieee.org/ielx7/5165411/10566087/10445529.pdf?arnumber=10445529"
 citation: 'J. Li et al., "Resilient Resource Allocations for Multi-Stage Transportation-Power Distribution System Operations in Hurricanes," in IEEE Transactions on Smart Grid, vol. 15, no. 4, pp. 3994-4009, July 2024.'
+volume: 'vol. 15, no. 4, pp. 3994-4009'
 ---
 
 Abstract:
