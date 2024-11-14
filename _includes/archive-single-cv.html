@@ -18,7 +18,7 @@
 		{% if post.collection == 'teaching' %}
           <p> <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>, {{ post.type }}, {{ post.semester }}. </p>
         {% elsif post.collection == 'publications' %}
-          <p>{{ post.paper_author }}. "<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>", <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}. {{ post.remark }} </p>
+          <p>{{ post.paper_author }}. "<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>", <i>{{ post.venue }}</i>, {{ post.volume }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}. {{ post.remark }} </p>
         {% elsif post.date %}
           <p> {{ post.owner }}. <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>. {{ post.date | default: "1900-01-01" | date: "%Y/%m/%d" }}, {{ post.number }}. </p>
         {% endif %}
