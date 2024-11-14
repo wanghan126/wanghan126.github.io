@@ -10,6 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/10287171"
 citation: 'H. Wang et al., "Stochastic Optimization of Coupled Power Distribution-Urban Transportation Network Operations With Autonomous Mobility on Demand Systems," in IEEE Transactions on Smart Grid, vol. 15, no. 3, pp. 3040-3053, May 2024.'
+volume: "vol. 15, no. 3, pp. 3040-3053"
 ---
 
 Abstract:
