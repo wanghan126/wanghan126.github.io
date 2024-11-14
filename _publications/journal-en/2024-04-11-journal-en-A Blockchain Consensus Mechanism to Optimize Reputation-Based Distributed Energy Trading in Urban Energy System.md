@@ -4,7 +4,7 @@ collection: publications
 type: "journal-en"
 permalink: /publication/2024-08-15-journal-en-A-Blockchain-Consensus-Mechanism-to-Optimize-Reputation-Based-Distributed-Energy-Trading-in-Urban-Energy-System
 date: 2024-04-11
-venue: "IEEE ACCESS"
+venue: "IEEE Access"
 paper_author: "Chen Zhao, Dong Han, Chao Li, <b>Han Wang</b>"
 corresponding: True
 remark: "(SCI)"
