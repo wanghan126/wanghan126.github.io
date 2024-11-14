@@ -3,7 +3,7 @@ title: "城市电力-交通系统韧性研究综述及展望"
 collection: publications
 type: "journal-zh"
 permalink: /publication/2024-06-14-journal-zh-城市电力-交通系统韧性研究综述及展望
-date: 2024-06-14
+date: 2024-12-30
 venue: "电力系统自动化"
 paper_author: "徐潇源, 李佳琪, <b>王晗</b>, 严正, 谢邦鹏, 罗潇"
 corresponding: True
