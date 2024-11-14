@@ -5,7 +5,7 @@ type: "journal-en"
 permalink: /publication/2023-11-01-journal-en-Analytical-Probabilistic-Power-Flow-and-Global-Sensitivity-Analysis
 date: 2024-05-01
 venue: "IEEE Transactions on Power Systems"
-volume: "39"
+volume: "vol. 39, no. 3, pp. 5283-5296"
 issue: "3"
 pages: "5283-5296"
 issn: "0885-8950"
