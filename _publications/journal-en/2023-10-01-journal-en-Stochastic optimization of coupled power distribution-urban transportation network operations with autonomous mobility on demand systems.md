@@ -9,7 +9,7 @@ paper_author: "<b>Han Wang</b>, Xuyuan Xu, Yue Chen, Zheng Yan, Mohammad Shahide
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/10287171"
-citation: 'Wang H, Xu X, Chen Y, et al. Stochastic Optimization of Coupled Power Distribution-Urban Transportation Network Operations with Autonomous Mobility on Demand Systems[J]. IEEE Transactions on Smart Grid, 2023.'
+citation: 'H. Wang et al., "Stochastic Optimization of Coupled Power Distribution-Urban Transportation Network Operations With Autonomous Mobility on Demand Systems," in IEEE Transactions on Smart Grid, vol. 15, no. 3, pp. 3040-3053, May 2024.'
 ---
 
 Abstract:
