@@ -10,6 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/8533339"
 citation: 'H. Wang, Z. Yan, X. Xu and K. He, "Evaluating influence of variable renewable energy generation on islanded microgrid power flow," <i>IEEE Access</i>, vol. 6, pp. 71339-71349, 2018.'
+volume: "vol. 6, pp. 71339-71349"
 ---
 
 Abstract:
