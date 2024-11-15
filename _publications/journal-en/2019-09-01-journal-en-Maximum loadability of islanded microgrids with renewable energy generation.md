@@ -10,6 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/8388268"
 citation: 'X. Xu, Z. Yan, M. Shahidehpour, S. Chen, H. Wang, Z. Li and Q. Zhou, "Maximum loadability of islanded microgrids with renewable energy generation," <i>IEEE Transactions on Smart Grid</i>, vol. 10, no. 5, pp. 4696-4705, 2019.'
+volume: "vol. 10, no. 5, pp. 4696-4705"
 ---
 
 Abstract:
