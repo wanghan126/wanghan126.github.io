@@ -10,6 +10,7 @@ corresponding: True
 remark: ""
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=DLXT202116002&uniplatform=NZKPT&v=lzPv3VaLE-mH_W4bS0XaBd6P6GvcnLghdZfwlwPkYoEh_X8eAMU66jaszq1SH5PD"
 citation: '徐潇源, 王晗, 严正, 鲁卓欣, 康重庆, 谢开贵. 能源转型背景下电力系统不确定性及应对方法综述[J]. 电力系统自动化, 2021, 45(16): 2-13.'
+volume: "45(16): 2-13"
 ---
 
 摘要：
