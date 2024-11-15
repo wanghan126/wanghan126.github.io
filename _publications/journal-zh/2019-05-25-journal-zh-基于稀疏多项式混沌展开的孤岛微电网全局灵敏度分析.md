@@ -10,6 +10,7 @@ corresponding: True
 remark: ""
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=DLXT201910006&uniplatform=NZKPT&v=Xe2Oz5HuAVUL4ma-HCSu0TKYyA0QZp7AVtbgoh0zuEdn8YNWH8i2ytvr3K_sgJBL"
 citation: '王晗, 严正, 徐潇源, 何琨. 基于稀疏多项式混沌展开的孤岛微电网全局灵敏度分析[J]. 电力系统自动化, 2019, 43(10): 44-52.'
+volume: "43(10): 44-52"
 ---
 
 摘要：
