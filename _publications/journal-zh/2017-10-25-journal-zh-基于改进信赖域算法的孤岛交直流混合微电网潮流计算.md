@@ -10,6 +10,7 @@ corresponding: True
 remark: ""
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=DLXT201720006&uniplatform=NZKPT&v=L9NNmsIXN2hyR560_6T_WYe2_xh8XkJr9l7QeQLdSL9bvvjMzVypQOjmHHljkPHX"
 citation: '王晗, 徐潇源, 严正. 基于改进信赖域算法的孤岛交直流混合微电网潮流计算[J]. 电力系统自动化, 2017, 41(20): 38-46.'
+volume: "41(20): 38-46"
 ---
 
 摘要：
