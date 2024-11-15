@@ -10,6 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/8226762"
 citation: 'X. Xu, Z. Yan, M. Shahidehpour, H. Wang and S. Chen, "Power system voltage stability evaluation considering renewable energy with correlated variabilities," <i>IEEE Transactions on Power Systems</i>, vol. 33, no. 3, pp. 3236-3245, 2018.'
+volume: "vol. 33, no. 3, pp. 3236-3245"
 ---
 
 Abstract:
