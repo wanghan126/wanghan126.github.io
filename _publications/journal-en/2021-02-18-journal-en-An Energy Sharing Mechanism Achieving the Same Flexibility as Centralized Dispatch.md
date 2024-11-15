@@ -10,6 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/9358090"
 citation: 'Y. Chen, W. Wei, H. Wang, Q. Zhou and J. P. S. Catalão, "An Energy Sharing Mechanism Achieving the Same Flexibility as Centralized Dispatch," <i>IEEE Transactions on Smart Grid</i>, vol. 12, no. 4, pp. 3379-3389, 2021.'
+volume: "vol. 12, no. 4, pp. 3379-3389"
 ---
 
 
