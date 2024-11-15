@@ -10,6 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S0142061518329624"
 citation: 'H. Wang, Z. Yan, X. Xu and K. He, "Probabilistic power flow analysis of microgrid with renewable energy," <i>International Journal of Electrical Power & Energy Systems</i>, vol. 114, pp. 1-10, 2020.'
+volume: "vol. 114, pp. 1-10, 2020"
 ---
 
 Abstract:
