@@ -10,6 +10,7 @@ corresponding: True
 remark: ""
 paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XaUMb0yodIjH-nwVdT1ofrMkHwrr2gjUHsOf-Em5BmJ5&uniplatform=NZKPT"
 citation: '方晓涛, 严正, 王晗, 徐潇源, 陈玥, 许少伦. 考虑“路-车-源-荷”多重不确定性的交通网与配电网概率联合流分析[J]. 电力系统自动化, 2022, 46(12): 76-87.'
+volume: "46(12): 76-87"
 ---
 
 摘要：
