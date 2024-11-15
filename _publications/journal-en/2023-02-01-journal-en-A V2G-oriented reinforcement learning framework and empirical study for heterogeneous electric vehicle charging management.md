@@ -10,6 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S2210670722006497"
 citation: 'Xu Hao, Yue Chen, Hewu Wang, Han Wang, Yu Meng and Qing Gu, "A V2G-oriented reinforcement learning framework and empirical study for heterogeneous electric vehicle charging management",<i>Sustainable Cities and Society</i>,Volume 89, pp.104345, 2023.'
+volume: "vol.89, pp.104345"
 ---
 
 Abstract:
