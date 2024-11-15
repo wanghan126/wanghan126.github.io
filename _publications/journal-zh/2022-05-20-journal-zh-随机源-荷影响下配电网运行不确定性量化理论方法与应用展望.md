@@ -10,6 +10,7 @@ corresponding: True
 remark: ""
 paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=La2KlAOQ31RbqpP2Yig0mJE7xDnfal12rOCZ9l0q33wfvBRYS-ZVOHTotPMlF7wMaSHKtDF4SCCVHWqzPQhpf5CcSQlpouqggle6yA9ZvBf8CtV8kRlvNSwZYuSVV66pze8hjixF2-w9miaIvblNXA==&uniplatform=NZKPT&language=CHS"
 citation: '王晗,徐潇源,严正等.随机源-荷影响下配电网运行不确定性量化理论方法与应用展望[J].全球能源互联网,2022,5(03):230-241.'
+volume: "5(03):230-241"
 ---
 
 摘要：
