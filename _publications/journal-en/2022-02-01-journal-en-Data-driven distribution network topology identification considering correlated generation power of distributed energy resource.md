@@ -10,6 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://link.springer.com/article/10.1007/s11708-021-0780-x"
 citation: 'J. Chen, X. Xu, Z. Yan and H. Wang, "Data-driven distribution network topology identification considering correlated generation power of distributed energy resource," <i>Frontiers in Energy</i>, vol. 16, no. 1, pp. 121-129, 2022.'
+volume: "vol. 16, no. 1, pp. 121-129"
 ---
 
 Abstract:
