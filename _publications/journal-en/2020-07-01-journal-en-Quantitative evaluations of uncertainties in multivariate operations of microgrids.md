@@ -10,6 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/8984215"
 citation: 'H. Wang, Z. Yan, M. Shahidehpour, X. Xu and Q. Zhou, "Quantitative evaluations of uncertainties in multivariate operations of microgrids," <i>IEEE Transactions on Smart Grid</i>, vol. 11, no. 4, pp. 2892-2903, 2020.'
+volume: "vol. 11, no. 4, pp. 2892-2903"
 ---
 
 Abstract:
