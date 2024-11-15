@@ -10,6 +10,7 @@ corresponding: True
 remark: ""
 paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XS4i5CgPc2Va4fTspA2fFgp0qx63HTuCq-S7YcD5IjeR&uniplatform=NZKPT"
 citation: '方晓涛, 严正, 王晗, 徐潇源. 考虑源–荷随机–模糊特征的配电网潮流不确定性量化方法[J]. 中国电机工程学报, 2022, 42(20): 7509-7524.'
+volume: "42(20): 7509-7524"
 ---
 
 摘要：
