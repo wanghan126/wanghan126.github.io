@@ -10,6 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/10068816"
 citation: 'J. Li, X. Xu, Z. Yan, H. Wang, M. Shahidehpour and Y. Chen, "Coordinated Optimization of Emergency Response Resources in Transportation-Power Distribution Networks Under Extreme Events," in IEEE Transactions on Smart Grid, vol. 14, no. 6, pp. 4607-4620, Nov. 2023. '
+volume: "vol. 14, no. 6, pp. 4607-4620"
 ---
 
 Abstract:
