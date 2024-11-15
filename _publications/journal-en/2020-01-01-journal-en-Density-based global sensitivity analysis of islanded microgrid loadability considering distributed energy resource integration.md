@@ -10,6 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/8861468"
 citation: 'Z. Lu, X. Xu, Z. Yan and H. Wang, "Density-based global sensitivity analysis of islanded microgrid loadability considering distributed energy resource integration," <i>Journal of Modern Power Systems and Clean Energy</i>, vol. 8, no. 1, pp. 94-101, 2020.'
+volume: "vol. 8, no. 1, pp. 94-101"
 ---
 
 Abstract:
