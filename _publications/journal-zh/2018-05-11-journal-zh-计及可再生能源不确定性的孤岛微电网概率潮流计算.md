@@ -10,6 +10,7 @@ corresponding: True
 remark: ""
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=DLXT201815016&uniplatform=NZKPT&v=GYXw-E6GvFs9yMJG44R9wHpRoh9G834YqRhcQpwm3FraQi_5c6M8AVImhd4fy3i2"
 citation: '王晗, 严正, 徐潇源, 李铁, 唐俊刺, 周纯莹. 计及可再生能源不确定性的孤岛微电网概率潮流计算[J]. 电力系统自动化, 2018, 42(15): 110-117.'
+volume: "42(15): 110-117"
 ---
 
 摘要：
