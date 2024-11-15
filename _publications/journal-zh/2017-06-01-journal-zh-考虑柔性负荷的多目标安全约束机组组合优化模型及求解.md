@@ -10,6 +10,7 @@ corresponding: True
 remark: ""
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=DWJS201706027&uniplatform=NZKPT&v=_rnILaSK9Q16NUUgIXFIcPs9v0E3m0q3uzXbRT-sKPx7uMitlqH5c6IeDgmmRheE"
 citation: '王晗, 徐潇源, 严正. 考虑柔性负荷的多目标安全约束机组组合优化模型及求解[J]. 电网技术, 2017, 41(06): 1904-1911.'
+volume: "41(06): 1904-1911"
 ---
 
 摘要：
