@@ -10,6 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/9088223"
 citation: 'H. Wang, Z. Yan, M. Shahidehpour, Q. Zhou and X. Xu, "Optimal Energy Storage Allocation for Mitigating the Unbalance in Active Distribution Network via Uncertainty Quantification," <i>IEEE Transactions on Sustainable Energy</i>, vol. 12, no. 1, pp. 303-313, 2021.'
+volume: "vol. 12, no. 1, pp. 303-313"
 ---
 
 Abstract:
