@@ -10,6 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/9864603"
 citation: 'T. Chen, X. Xu, H. Wang and Z. Yan, "Routing and Scheduling of Mobile Energy Storage System for Electricity Arbitrage Based on Two-layer Deep Reinforcement Learning," <i>IEEE Transactions on Transportation Electrification</i>, vol. 9, no. 1, pp. 1087-1102, March 2023.'
+volume: "vol. 9, no. 1, pp. 1087-1102"
 ---
 
 Abstract:
