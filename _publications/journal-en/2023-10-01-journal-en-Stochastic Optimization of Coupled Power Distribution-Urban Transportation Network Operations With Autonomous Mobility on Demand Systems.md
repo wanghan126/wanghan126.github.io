@@ -1,5 +1,5 @@
 ---
-title: "Stochastic optimization of coupled power distribution-urban transportation network operations with autonomous mobility on demand systems"
+title: "Stochastic Optimization of Coupled Power Distribution-Urban Transportation Network Operations With Autonomous Mobility on Demand Systems"
 collection: publications
 type: "journal-en"
 permalink: /publication/2023-10-01-journal-en-Stochastic optimization of coupled power distribution-urban transportation network operations with autonomous mobility on demand systems
