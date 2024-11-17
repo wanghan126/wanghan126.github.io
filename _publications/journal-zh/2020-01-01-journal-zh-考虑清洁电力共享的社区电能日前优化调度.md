@@ -10,7 +10,7 @@ corresponding: True
 remark: ""
 paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=La2KlAOQ31RXMqIgKXcQiF9xW0RX5ShJ-RrmQC_gBJ-ZNz9Jl8jaMu3x2gaqP6KBppJUGsMC2KjXh4HbLCxlTPkFKqCVhdcZbkDg14UCB8dZfkTBeY-rqiz4cWVHOIgJYB8xFCyytd7hBkghTPwAxA==&uniplatform=NZKPT&language=CHS"
 citation: "胡佳怡,严正,王晗.考虑清洁电力共享的社区电能日前优化调度[J].电网技术,2020,44(01):61-70."
-volume: "44(01):61-70"
+volume: "44(1):61-70"
 ---
 
 摘要：
