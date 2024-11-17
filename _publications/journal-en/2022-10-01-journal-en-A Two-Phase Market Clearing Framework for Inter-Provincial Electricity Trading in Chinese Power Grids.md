@@ -1,15 +1,15 @@
 ---
-title: "A two-phase market clearing framework for inter-provincial electricity trading in Chinese power grids"
+title: "A Two-Phase Market Clearing Framework for Inter-Provincial Electricity Trading in Chinese Power Grids"
 collection: publications
 type: "journal-en"
-permalink: /publication/2022-10-01-journal-en-A two-phase market clearing framework for inter-provincial electricity trading in Chinese power grids
+permalink: /publication/2022-10-01-journal-en-A Two-Phase Market Clearing Framework for Inter-Provincial Electricity Trading in Chinese Power Grids
 date: 2022-10-01
 venue: "Sustainable Cities and Society"
 paper_author: "Yi Chen, <b>Han Wang*</b>, Zheng Yan, Xiaoyuan Xu, Dan Zeng, Bin Ma"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S2210670722003754"
-citation: 'Yi Chen, Han Wang, Zheng Yan, Xiaoyuan Xu, Dan Zeng and Bin Ma, "A two-phase market clearing framework for inter-provincial electricity trading in Chinese power grids," <i>Sustainable Cities and Society</i>, vol. 85, pp. 104057, 2022.'
+citation: 'Yi Chen, Han Wang, Zheng Yan, Xiaoyuan Xu, Dan Zeng and Bin Ma, "A Two-Phase Market Clearing Framework for Inter-Provincial Electricity Trading in Chinese Power Grids," <i>Sustainable Cities and Society</i>, vol. 85, pp. 104057, 2022.'
 volume: "vol. 85, pp. 104057"
 ---
 
