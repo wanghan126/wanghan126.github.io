@@ -1,15 +1,15 @@
 ---
-title: "Maximum loadability of islanded microgrids with renewable energy generation"
+title: "Maximum Loadability of Islanded Microgrids with Renewable Energy Generation"
 collection: publications
 type: "journal-en"
-permalink: /publication/2019-09-01-journal-en-Maximum loadability of islanded microgrids with renewable energy generation
+permalink: /publication/2019-09-01-journal-en-Maximum Loadability of Islanded Microgrids with Renewable Energy Generation
 date: 2019-09-01
 venue: "IEEE Transactions on Smart Grid"
 paper_author: "Xiaoyuan Xu, Zheng Yan, Mohammad Shahidehpour, Sijie Chen, <b>Han Wang</b>, Zhiyi Li, Quan Zhou"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/8388268"
-citation: 'X. Xu, Z. Yan, M. Shahidehpour, S. Chen, H. Wang, Z. Li and Q. Zhou, "Maximum loadability of islanded microgrids with renewable energy generation," <i>IEEE Transactions on Smart Grid</i>, vol. 10, no. 5, pp. 4696-4705, 2019.'
+citation: 'X. Xu, Z. Yan, M. Shahidehpour, S. Chen, H. Wang, Z. Li and Q. Zhou, "Maximum Loadability of Islanded Microgrids with Renewable Energy Generation," <i>IEEE Transactions on Smart Grid</i>, vol. 10, no. 5, pp. 4696-4705, 2019.'
 volume: "vol. 10, no. 5, pp. 4696-4705"
 ---
 
