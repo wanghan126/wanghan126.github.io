@@ -10,7 +10,7 @@ corresponding: True
 remark: ""
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=DLXT201902009&uniplatform=NZKPT&v=Xe2Oz5HuAVUTgdkiT1vNUXkT-9FuE_whlVWhpY9zMH9Mpni2mMxz0Y4vlAd0SL8b"
 citation: '何琨, 徐潇源, 严正, 王晗. 基于稀疏多项式混沌展开的孤岛微电网概率潮流计算[J]. 电力系统自动化, 2019, 43(02): 95-107.'
-volume: "43(02): 95-107"
+volume: "43(2): 95-107"
 ---
 
 摘要：
