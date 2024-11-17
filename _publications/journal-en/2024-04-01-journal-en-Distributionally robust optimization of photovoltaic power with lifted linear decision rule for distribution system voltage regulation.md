@@ -1,5 +1,5 @@
 ---
-title: "Distributionally robust optimization of photovoltaic power with lifted linear decision rule for distribution system voltage regulation"
+title: "Distributionally Robust Optimization of Photovoltaic Power With Lifted Linear Decision Rule for Distribution System Voltage Regulation"
 collection: publications
 type: "journal-en"
 permalink: /publication/2024-04-01-journal-en-Distributionally robust optimization of photovoltaic power with lifted linear decision rule for distribution system voltage regulation
