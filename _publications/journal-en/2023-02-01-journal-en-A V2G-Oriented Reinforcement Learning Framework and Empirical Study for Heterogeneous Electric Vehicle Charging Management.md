@@ -1,15 +1,15 @@
 ---
-title: "A V2G-oriented reinforcement learning framework and empirical study for heterogeneous electric vehicle charging management"
+title: "A V2G-Oriented Reinforcement Learning Framework and Empirical Study for Heterogeneous Electric Vehicle Charging Management"
 collection: publications
 type: "journal-en"
-permalink: /publication/2023-02-01-journal-en-A V2G-oriented reinforcement learning framework and empirical study for heterogeneous electric vehicle charging management
+permalink: /publication/2023-02-01-journal-en-A V2G-Oriented Reinforcement Learning Framework and Empirical Study for Heterogeneous Electric Vehicle Charging Management
 date: 2023-02-01
 venue: "Sustainable Cities and Society"
 paper_author: "Xu Hao, Yue Chen, Hewu Wang, <b>Han Wang</b>, Yu Meng, Qing Gu"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S2210670722006497"
-citation: 'Xu Hao, Yue Chen, Hewu Wang, Han Wang, Yu Meng and Qing Gu, "A V2G-oriented reinforcement learning framework and empirical study for heterogeneous electric vehicle charging management",<i>Sustainable Cities and Society</i>,Volume 89, pp.104345, 2023.'
+citation: 'Xu Hao, Yue Chen, Hewu Wang, Han Wang, Yu Meng and Qing Gu, "A V2G-Oriented Reinforcement Learning Framework and Empirical Study for Heterogeneous Electric Vehicle Charging Management",<i>Sustainable Cities and Society</i>,Volume 89, pp.104345, 2023.'
 volume: "Volume 89, pp.104345"
 ---
 
