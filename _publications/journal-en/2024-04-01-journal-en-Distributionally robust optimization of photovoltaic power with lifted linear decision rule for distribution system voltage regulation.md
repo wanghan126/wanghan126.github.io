@@ -10,7 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/10214028"
 citation: 'X. Xu, Y. Gao, H. Wang, Z. Yan, M. Shahidehpour and Z. Tan, "Distributionally Robust Optimization of Photovoltaic Power With Lifted Linear Decision Rule for Distribution System Voltage Regulation," in IEEE Transactions on Sustainable Energy, vol. 15, no. 2, pp. 758-772, April 2024.'
-Volume: "vol. 15, no. 2, pp. 758-772"
+volume: "vol. 15, no. 2, pp. 758-772"
 ---
 
 Abstract:
