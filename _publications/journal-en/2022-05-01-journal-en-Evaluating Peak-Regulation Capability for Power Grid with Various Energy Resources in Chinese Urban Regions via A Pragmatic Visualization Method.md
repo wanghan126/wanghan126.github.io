@@ -1,15 +1,15 @@
 ---
-title: "Evaluating peak-regulation capability for power grid with various energy resources in Chinese urban regions via a pragmatic visualization method"
+title: "Evaluating Peak-Regulation Capability for Power Grid with Various Energy Resources in Chinese Urban Regions via A Pragmatic Visualization Method"
 collection: publications
 type: "journal-en"
-permalink: /publication/2022-05-01-journal-en-Evaluating peak-regulation capability for power grid with various energy resources in Chinese urban regions via a pragmatic visualization method
+permalink: /publication/2022-05-01-journal-en-Evaluating Peak-Regulation Capability for Power Grid with Various Energy Resources in Chinese Urban Regions via A Pragmatic Visualization Method
 date: 2022-05-01
 venue: "Sustainable Cities and Society"
 paper_author: "Hongyan Ma, <b>Han Wang*</b>, Zheng Yan, Qingmin Yu"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S2210670722000804"
-citation: 'Hongyan Ma, Han Wang, Zheng Yan and Qingmin Yu, "Evaluating peak-regulation capability for power grid with various energy resources in Chinese urban regions via a pragmatic visualization method",<i>Sustainable Cities and Society</i>,Volume 80, pp.103749, 2022.'
+citation: 'Hongyan Ma, Han Wang, Zheng Yan and Qingmin Yu, "Evaluating Peak-Regulation Capability for Power Grid with Various Energy Resources in Chinese Urban Regions via A Pragmatic Visualization Method",<i>Sustainable Cities and Society</i>,Volume 80, pp.103749, 2022.'
 volume: "Volume 80, pp.103749"
 ---
 
