@@ -6,3 +6,5 @@
 * 2022 IEEE IAS Industrial and Commercial Power System ASIA分论坛主席
 * 中国电科院期刊中心青年专家团成员（2022-2024）
 * IEEE Transactions on Smart Grid、中国电机工程学报等国内外十余本期刊审稿人
+* 中国电工技术学会主动配电网及分布式电源专业委员会委员
+* 中国电工技术学会科技传播与出版专业委员会委员
