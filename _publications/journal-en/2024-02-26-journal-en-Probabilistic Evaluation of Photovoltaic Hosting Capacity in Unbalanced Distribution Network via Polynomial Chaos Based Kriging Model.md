@@ -1,11 +1,11 @@
 ---
-title: "Hierarchical Game for Coupled Power System with Energy Sharing and Transportation System"
+title: "Probabilistic Evaluation of Photovoltaic Hosting Capacity in Unbalanced Distribution Network via Polynomial Chaos Based Kriging Model"
 collection: publications
 type: "journal-en"
-permalink: /publication/2024-05-09-journal-en-Hierarchical-Game-for-Coupled-Power-System-with-Energy-Sharing-and-Transportation-System
-date: 2024-12-30
+permalink: /publication/2024-02-26-journal-en-Probabilistic Evaluation of Photovoltaic Hosting Capacity in Unbalanced Distribution Network via Polynomial Chaos Based Kriging Model
+date: 2024-12-31
 venue: "IEEE Transactions on Transportation Electrification"
-paper_author: "Dongxiang Yan, Tongxin Li, Changhong Zhao, <b>Han Wang</b>, Yue Chen"
+paper_author: "Hongyan Ma, Gan Li, Han Wang, Member, IEEE, Zheng Yan, Xiaoyuan Xu, Member, IEEE"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://xplorestaging.ieee.org/document/10526346"
