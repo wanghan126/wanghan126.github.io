@@ -9,7 +9,7 @@ paper_author: "郭梦婕, <b>王晗</b>, 严正, 张文博, 陶玮, 周新生, �
 corresponding: True
 remark: "(录用)"
 paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=NK8hpUzgeRUs3dcrsqKqf0gcUrpsB0CNWjkJ3LSW95cJU1VyJOWg1V0x7beEnxWN6FFU8Kez7KGN3xhCi5bvKhFmGGVLT1YUhvUqZv6iiypfbYN82fPpQbQR6aB3D2u6L2iyLioO2DZfCD3fh3dwhvoBklmg_n37E-69_3cBQCKeXbkxbOAVU1siCpuGaimx&uniplatform=NZKPT&language=CHS"
-citation: '郭梦婕,王晗,严正,等.基于光量子计算机的虚拟电厂分布式资源解聚合优化方法[J/OL].中国电机工程学报,1-12[2024-12-11].'
+citation: '郭梦婕,王晗,严正,等.基于光量子计算机的虚拟电厂分布式资源解聚合优化方法[J/OL].中国电机工程学报, 1-12[2024-12-11].'
 ---
 
 摘要：
