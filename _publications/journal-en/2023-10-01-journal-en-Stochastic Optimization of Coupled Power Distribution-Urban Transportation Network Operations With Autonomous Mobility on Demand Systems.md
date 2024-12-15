@@ -5,7 +5,7 @@ type: "journal-en"
 permalink: /publication/2023-10-01-journal-en-Stochastic Optimization of Coupled Power Distribution-Urban Transportation Network Operations With Autonomous Mobility on Demand Systems
 date: 2024-05-01
 venue: "IEEE Transactions on Smart Grid"
-paper_author: "<b>Han Wang</b>, Xuyuan Xu, Yue Chen, Zheng Yan, Mohammad Shahidehpour, Jiaqi Li, Shaolun Xu"
+paper_author: "<b>Han Wang</b>, Xiaoyuan Xu, Yue Chen, Zheng Yan, Mohammad Shahidehpour, Jiaqi Li, Shaolun Xu"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/10287171"
