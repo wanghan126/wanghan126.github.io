@@ -10,7 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S2210670722000804"
 citation: 'Hongyan Ma, Han Wang, Zheng Yan and Qingmin Yu, "Evaluating Peak-Regulation Capability for Power Grid with Various Energy Resources in Chinese Urban Regions via A Pragmatic Visualization Method",<i>Sustainable Cities and Society</i>,Volume 80, pp.103749, 2022.'
-volume: "Volume 80, pp.103749"
+volume: "vol.80, pp.103749"
 ---
 
 Abstract:
