@@ -10,5 +10,5 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://xplorestaging.ieee.org/document/10526346"
 citation: 'Zhe Hu, Han Wang*, Xiaoyuan Xu, Guanyu Song, Zheng Yan and Yue Chen. "Multi-time Period Operation Analysis of Coupled Transportation and Power Distribution Networks Considering Self-driving and Human-driving Behaviors", Applied Energy, Accepted, 2024. (SCI)'
-volume: "Early Access"
+volume: "Accept"
 ---
