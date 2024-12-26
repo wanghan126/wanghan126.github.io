@@ -10,7 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S2210670722003754"
 citation: 'Yi Chen, Han Wang, Zheng Yan, Xiaoyuan Xu, Dan Zeng and Bin Ma, "A Two-Phase Market Clearing Framework for Inter-Provincial Electricity Trading in Chinese Power Grids," <i>Sustainable Cities and Society</i>, vol. 85, pp. 104057, 2022.'
-volume: "vol. 85, pp. 104057"
+volume: "vol. 85, art. no. 104057"
 ---
 
 Abstract:
