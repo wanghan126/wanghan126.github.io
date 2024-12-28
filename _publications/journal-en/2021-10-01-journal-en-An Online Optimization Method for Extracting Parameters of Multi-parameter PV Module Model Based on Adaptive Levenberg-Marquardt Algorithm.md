@@ -10,7 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S0196890421007871"
 citation: 'M. Wang, X. Xu, Z. Yan and H. Wang. "An Online Optimization Method for Extracting Parameters of Multi-parameter PV Module Model Based on Adaptive Levenberg-Marquardt Algorithm," <i>Energy Conversion and Management</i>, vol. 245, art. no. 114611, 2021.'
-volume: "vol. 245, art. no. 114611"
+volume: "vol. 245, pp. 114611"
 ---
 
 Abstract:
