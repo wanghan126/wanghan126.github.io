@@ -10,7 +10,7 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S0142061521008802"
 citation: 'J. Cheng, Z. Yan, H. Wang and X. Xu. "A Risk-Controllable Day-Ahead Transmission Schedule of Surplus Wind Power with Uncertainty in Sending Grids," <i>International Journal of Electrical Power & Energy Systems</i>, vol. 139, art. no. 107649, 2022.'
-volume: "vol. 139, art. no. 107649"
+volume: "vol. 139, Art. no. 107649"
 ---
 
 Abstract:
