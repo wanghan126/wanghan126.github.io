@@ -8,7 +8,7 @@ venue: "IEEE Transactions on Industry Applications"
 paper_author: "Hongyan Ma, Gan Li, <b>Han Wang*</b>, Zheng Yan, Xiaoyuan Xu"
 corresponding: True
 remark: "(SCI)"
-paperurl: "https://xplorestaging.ieee.org/document/10526346"
+paperurl: "https://ieeexplore.ieee.org/abstract/document/10815108"
 citation: ''
 volume: "Early Access"
 ---
