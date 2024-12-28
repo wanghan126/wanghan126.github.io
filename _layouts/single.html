@@ -50,9 +50,12 @@ layout: default
 		  <p><b>下载：</b><a href=" {{ page.paperurl }} ">链接</a></p>
 		{% endif %}
 		
-         //        {% if page.citation %}
-	//	  <p><b>推荐引用：</b>{{ page.citation }}</p>
-	//	{% endif %}
+    {% comment %}
+  {% if page.citation %}
+    <p><b>推荐引用：</b>{{ page.citation }}</p>
+  {% endif %}
+{% endcomment %}
+
     
         </header>
       {% endunless %}
