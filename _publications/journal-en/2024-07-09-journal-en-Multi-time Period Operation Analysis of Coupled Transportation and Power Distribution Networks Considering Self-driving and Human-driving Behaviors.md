@@ -8,7 +8,7 @@ venue: "Applied Energy"
 paper_author: "Zhe Hu, <b>Han Wang*</b>, Xiaoyuan Xu, Guanyu Song, Zheng Yan, Yue Chen"
 corresponding: True
 remark: "(SCI)"
-paperurl: ""
+paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0306261924026102?via%3Dihub"
 citation: 'Zhe Hu, Han Wang*, Xiaoyuan Xu, Guanyu Song, Zheng Yan and Yue Chen. "Multi-time Period Operation Analysis of Coupled Transportation and Power Distribution Networks Considering Self-driving and Human-driving Behaviors", Applied Energy, Accepted, 2024. (SCI)'
-volume: "Accept"
+volume: "vol.382,article.15226"
 ---
