@@ -3,7 +3,7 @@ title: "Multi-time Period Operation Analysis of Coupled Transportation and Power
 collection: publications
 type: "journal-en"
 permalink: /publication/2024-07-09-journal-en-Multi-time Period Operation Analysis of Coupled Transportation and Power Distribution Networks Considering Self-driving and Human-driving Behaviors
-date: 2024-12-31
+date: 2024-07-09
 venue: "Applied Energy"
 paper_author: "Zhe Hu, <b>Han Wang*</b>, Xiaoyuan Xu, Guanyu Song, Zheng Yan, Yue Chen"
 corresponding: True
