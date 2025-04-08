@@ -2,7 +2,7 @@
 title: "Modeling and Multi-Rate Simulation of Combined Heating Networks and Power to Hydrogen With Waste Heat Recovery"
 collection: publications
 type: "journal-en"
-permalink: /publication/2023-06-01-journal-en-Modeling and Multi-Rate Simulation of Combined Heating Networks and Power to Hydrogen With Waste Heat Recovery
+permalink: /publication/2024-12-24-journal-en-Modeling and Multi-Rate Simulation of Combined Heating Networks and Power to Hydrogen With Waste Heat Recovery
 date: 2024-12-24
 venue: "CSEE Journal of Power and Energy Systems"
 paper_author: "Pengfei Han, Xiaoyuan Xu, <b>Han Wang</b>, Zheng Yan"
