@@ -10,5 +10,5 @@ corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10815108"
 citation: ''
-volume: "Early Access"
+volume: "vol. 61, no. 1, pp. 1466 - 1474"
 ---
