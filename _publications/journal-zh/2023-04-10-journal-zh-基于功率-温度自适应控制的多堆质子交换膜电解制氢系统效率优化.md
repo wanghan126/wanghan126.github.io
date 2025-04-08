@@ -7,10 +7,10 @@ date: 2024-11-14
 venue: "电工技术学报"
 paper_author: "韩鹏飞, 徐潇源, <b>王晗</b>, 严正"
 corresponding: True
-remark: "(录用)"
+remark: ""
 paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD64uketby5x2Un_6P2fLqaillzQQWEVr9dLTl_Jlqrz9-RpN4EjJBjcR&uniplatform=NZKPT"
-citation: '韩鹏飞, 徐潇源, 王晗, 严正. 基于功率-温度自适应控制的多堆质子交换膜电解制氢系统效率优化[J]. 电工技术学报, 2023. (录用)'
-volume: "网络首发"
+citation: '韩鹏飞, 徐潇源, 王晗, 严正. 基于功率-温度自适应控制的多堆质子交换膜电解制氢系统效率优化[J]. 电工技术学报,2024,39(7):2236-2248.'
+volume: "39(7):2236-2248"
 ---
 
 摘要：
